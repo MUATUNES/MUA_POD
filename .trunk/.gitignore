@@ -1,0 +1,9 @@
+*out
+*logs
+*notifications
+*actions
+*plugins
+*tools
+user.yaml
+user*.yaml
+tmp

@@ -1,3 +1,15 @@
 # Build folder and log file
 build/
 build.log
+
+# Node modules
+node_modules/
+
+# Trunk cache
+.trunk/out
+.trunk/logs
+.trunk/notifications
+.trunk/actions
+.trunk/plugins
+.trunk/tools
+.trunk/user.yaml
