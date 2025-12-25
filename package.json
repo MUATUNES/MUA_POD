@@ -2,7 +2,6 @@
   "name": "mua_pod",
   "version": "1.0.0",
   "description": "MUA_POD",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "trunk": "trunk",

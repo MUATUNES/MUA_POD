@@ -32,7 +32,6 @@ Trunk is configured with the following tools:
 - **prettier**: Code formatter
 - **shellcheck**: Shell script linter
 - **shfmt**: Shell script formatter
-- **taplo**: TOML linter and formatter
 - **trivy**: Security vulnerability scanner
 - **trufflehog**: Secret scanner
 - **yamllint**: YAML linter

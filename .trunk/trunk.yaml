@@ -8,7 +8,7 @@ plugins:
       uri: https://github.com/trunk-io/plugins
 runtimes:
   enabled:
-    - node@18.12.1
+    - node@18
     - python@3.10.8
 lint:
   enabled:
@@ -19,7 +19,6 @@ lint:
     - prettier@3.3.3
     - shellcheck@0.10.0
     - shfmt@3.6.0
-    - taplo@0.9.3
     - trivy@0.57.1
     - trufflehog@3.84.2
     - yamllint@1.35.1
