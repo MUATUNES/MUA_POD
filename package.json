@@ -1,0 +1,17 @@
+{
+  "name": "mua_pod",
+  "version": "1.0.0",
+  "description": "MUA_POD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "trunk": "trunk",
+    "lint": "trunk check",
+    "fmt": "trunk fmt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@trunkio/launcher": "^1.3.4"
+  }
+}
